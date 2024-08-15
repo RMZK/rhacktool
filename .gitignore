@@ -1,0 +1,58 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build results
+bin/
+obj/
+build/
+out/
+
+# Uncomment if you have a build output directory that you want to ignore
+# **/bin
+# **/obj
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Ignore build scripts output
+**/TestResults/
+**/TestOutput/
+
+# Ignore logs
+*.log
+*.tlog
+
+# Ignore coverage files
+coverage/
+*.coverage
+*.coveragexml
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.cache
+*.pdb
+*.pidb
+*.suo
+*.rsuser
+*.sln.docstates
+
+# Ignore Rider and Resharper files
+.idea/
+*.DotSettings.user
+*.sln.iml
+
+# Ignore Mac specific files
+.DS_Store
+
+# Ignore Windows specific files
+Thumbs.db
