@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "rhacktool": {
+      "commandName": "Project",
+      "commandLineArgs": "update-hacksdb --hacks-path \"O:\\romhacking.net-20240801\\rhdn_20240801\\hacks\" --log-file-path \"O:\\update.log\" --connection-string \"Server=192.168.1.56;Port=3307;Database=romhacking;Uid=root;Pwd=RomHacking;\""
+    }
+  }
+}
